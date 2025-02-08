@@ -1,4 +1,9 @@
-# React + Vite
+Youtube: https://youtu.be/ukiGFmZ32YA?si=zDj9s4AMHOrmSlzr (JavaScript Mastery) <3
+
+Tailwind + React + Vite
+
+I am only learning and coding by following videos, with no intention of making money from it. Tks you JavaScript Mastery very much
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
